@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Berkshire Swash', cursive;
+}
+
+#position{
+    position: relative;
+    left: -500px;
+}
+
+#background-picture{
+    background-image: url(images/football.jpg);
+}
+
+.total-budget{
+        color: orangered;
+}
