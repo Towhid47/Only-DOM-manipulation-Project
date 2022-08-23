@@ -1,16 +1,35 @@
+/* Header Section Style */
 h1{
     font-family: 'Berkshire Swash', cursive;
 }
 
 #position{
     position: relative;
-    left: -500px;
+    left: -100%;
 }
 
-#background-picture{
-    background-image: url(images/football.jpg);
+.logo{
+    width: 12%;
 }
 
+
+/* player cards shadow */
+.shade{
+    box-shadow: 5px 5px 40px rgb(17, 17, 17);
+}
+
+
+
+
+/* Player Cards Button Hover effect */
+.effect:hover{
+
+    box-shadow:5px 5px 20px blue ;
+}
+
+
+
+/* Budget Section Style */
 .total-budget{
         color: orangered;
 }
